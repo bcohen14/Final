@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\__Scripts\EnemyBug.cs">
+    <Files>
+      <File FileName="Assets\__Scripts\AirGroundSpell.cs" Line="42" Column="44" />
+      <File FileName="Assets\__Scripts\EarthGroundSpell.cs" Line="40" Column="50" />
+      <File FileName="Assets\__Scripts\Mage.cs" Line="279" Column="19" />
+      <File FileName="Assets\__Scripts\TapIndicator.cs" Line="9" Column="24" />
+      <File FileName="Assets\__Scripts\WaterGroundSpell.cs" Line="40" Column="47" />
+      <File FileName="Assets\__Scripts\EnemyBug.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
